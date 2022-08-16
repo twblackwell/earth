@@ -15,9 +15,9 @@ h2 {
 }
 
 .header {
-    /* background-image: url("rattlesnake.jpg"); */
+    background-image: url("loon-header.png");
     /* background-size: cover; */
-    background-color: #154734;
+    /* background-color: #154734; */
     background-size: cover;
     height: 300px;
     position: relative;
